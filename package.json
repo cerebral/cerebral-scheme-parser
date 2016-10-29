@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cerebral/cerebral-scheme-parser.git"
+    "url": "git+https://github.com/cerebral-legacy/cerebral-scheme-parser.git"
   },
   "keywords": [
     "cerebral"
@@ -16,9 +16,9 @@
   "author": "Christian Alfoni",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cerebral/cerebral-scheme-parser/issues"
+    "url": "https://github.com/cerebral-legacy/cerebral-scheme-parser/issues"
   },
-  "homepage": "https://github.com/cerebral/cerebral-scheme-parser#readme",
+  "homepage": "https://github.com/cerebral-legacy/cerebral-scheme-parser#readme",
   "devDependencies": {
     "nodeunit": "^0.9.1"
   }

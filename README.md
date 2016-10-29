@@ -1,5 +1,8 @@
 # cerebral-scheme-parser
-The scheme parser for operators
+The scheme parser for operators in Cerebral 1.x
+
+In Cerebral 2 the new tagged template operators are used,
+which don't need the scheme parser anymore.
 
 ```js
 import schemeParser from 'cerebral-scheme-parser'
